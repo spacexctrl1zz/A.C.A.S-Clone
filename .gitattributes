@@ -1,1 +1,2 @@
 assets/libraries/stockfish-16.1.wasm/stockfish-16.1.wasm filter=lfs diff=lfs merge=lfs -text
+assets/libraries/stockfish-16.1.wasm filter=lfs diff=lfs merge=lfs -text
